@@ -7,7 +7,7 @@
 
 colorScheme = "congo"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+
 footer.showAppearanceSwitcher = false
 
 enableSearch = false
