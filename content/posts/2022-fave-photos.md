@@ -1,1 +1,0 @@
-# Favorite Photos of 2022
