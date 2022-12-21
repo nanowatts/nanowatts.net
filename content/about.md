@@ -23,7 +23,7 @@ I also greatly enjoy photography. I picked it up during 2020 and have continued 
 
 -----
 
-You can contact me through [email](mailto:justin@nanowatts.net).
+You can contact me through [email](mailto:justin@nanowatts.net) or find me on <a rel="me" href="https://mas.to/@nanowatts">Mastodon</a>.
 
 This site was built using [Hugo](https://gohugo.io) and themed with [Congo](https://github.com/jpanther/congo). The custom styling on top of Congo is my own. 
 
