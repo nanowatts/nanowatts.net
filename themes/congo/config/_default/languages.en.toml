@@ -5,15 +5,15 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "nanowatts.net"
+title = "Congo"
 # logo = "img/logo.jpg"
-# description = "nanowatts.net"
+# description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  # name = "Justin Watts"
+  # name = "Your name here"
   # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"

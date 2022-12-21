@@ -13,18 +13,19 @@ footer.showAppearanceSwitcher = false
 enableSearch = false
 enableCodeCopy = false
 
-# mainSections = ["section1", "section2"]
+# mainSections = ["blog"]
 # robots = ""
 footer.showScrollToTop = true
 
 [homepage]
   layout = "page" # valid options: page, profile, custom
-  showRecent = true
+  homepage.showRecent = true
+  showDate = true
 
 [article]
   showDate = true
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
@@ -37,10 +38,9 @@ footer.showScrollToTop = true
   showTableOfContents = false
   showTaxonomies = false
   showWordCount = false
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
   showTableOfContents = false
   groupByYear = true
