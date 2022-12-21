@@ -21,7 +21,7 @@
   weight = 20
 
 [[main]]
-  name = "Mastadon"
+  name = "Mastodon"
   url = "https://mas.to/@nanowatts"
   weight = 30
 
