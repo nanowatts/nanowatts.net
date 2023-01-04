@@ -2,6 +2,7 @@
 title: "Please Remain Calm: Solving the Owl Sector ARG"
 date: 2017-05-02T11:08:07-04:00
 draft: false
+showDate: true
 ---
 
 My first experience with an alternate reality game was in 2004. I was a starry-eyed 14 years old freshly aboard the hype train for the new Halo game. The [theatrical trailer](https://www.youtube.com/watch?v=Zz6FNKawJBc) for Halo 2, at the time, ended with an Xbox logo directing the viewer to xbox.com, whilst also quickly flashing the text of another URL – ilovebees.com.

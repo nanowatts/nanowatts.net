@@ -19,24 +19,21 @@ footer.showScrollToTop = true
 
 [homepage]
   layout = "page" # valid options: page, profile, custom
-  homepage.showRecent = true
-  showDate = true
+  showRecent = true
 
 [article]
-  showDate = true
-  showDateUpdated = false
   showAuthor = false
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
+  editAppendPath = false
   showHeadingAnchors = true
-  showPagination = true
+  showPagination = false
   invertPagination = false
-  showReadingTime = false
+  showReadingTime = true
   showTableOfContents = false
-  showTaxonomies = false
+  showTaxonomies = true
   showWordCount = false
 
 [list]

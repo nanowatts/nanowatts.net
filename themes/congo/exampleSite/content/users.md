@@ -5,7 +5,7 @@ draft: false
 description: "Some real-life Congo examples."
 slug: "users"
 tags: ["users", "sample"]
-showDate: false
+showDate: true
 showAuthor: false
 showReadingTime: false
 showEdit: false
