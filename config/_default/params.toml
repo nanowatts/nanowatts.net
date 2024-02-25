@@ -14,7 +14,13 @@ enableCodeCopy = false
 
 # mainSections = ["posts"]
 # robots = ""
-footer.showScrollToTop = true
+
+[header]
+  layout = "basic" # valid options: basic, hamburger, hybrid, custom
+  # logo = "img/logo.jpg"
+  showTitle = true
+
+[footer]
   showCopyright = true
   showThemeAttribution = false
   showAppearanceSwitcher = false
