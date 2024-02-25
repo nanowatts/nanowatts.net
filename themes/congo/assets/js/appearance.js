@@ -1,6 +1,10 @@
 const sitePreference = document.documentElement.getAttribute("data-default-appearance");
 const userPreference = localStorage.getItem("appearance");
 
+window.addEventListener("load", function(){
+  setThemeColor();
+});
+
 function getCSSValue(varName) {
   var cssValue = window.getComputedStyle(document.documentElement).getPropertyValue(varName);
   return "rgb(" + cssValue.replace(/\s+/g, "") + ")";

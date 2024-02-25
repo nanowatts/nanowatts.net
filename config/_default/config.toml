@@ -2,12 +2,10 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = 'https://nanowatts.net'
-languageCode = 'en-us'
+# baseURL = "https://nanowatts.net"
+defaultContentLanguage = "en"
 title = 'nanowatts.net'
 theme = "congo"
-
-defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 paginate = 10

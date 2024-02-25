@@ -6,9 +6,5 @@
   {{ end }}
   <section>{{ .Content | emojify }}</section>
 </article>
-
 <br> 
-
-  {{ partial "recent-articles.html" . }}
-
-</article>
+  <section>{{ partial "recent-articles.html" . }}</section>
