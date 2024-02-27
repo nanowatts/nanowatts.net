@@ -1,7 +1,7 @@
 ---
 description:
 cascade:
-  showReadingTime: false
+showReadingTime: false
 ---
 
 ## Hey, I'm Justin ------
