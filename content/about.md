@@ -8,7 +8,7 @@ Hey! I'm Justin. I'm an engineer and product person living in North Bend, WA.
 
 ![Justin enjoying a glass of red wine](/about/justin-pfp.jpg)
 
-I'm currently working with the good people of [Riot Games](https://www.riotgames.com/en) as a Technical Producer focused on product. I primarily work on the roadmap, strategy, and vision for the tech and services behind [League of Legends](https://www.leagueoflegends.com/en-us/) & [Teamfight Tactics](https://teamfighttactics.leagueoflegends.com/en-us/).
+I'm currently working with the good people of [Riot Games](https://www.riotgames.com/en) as a Technical Product Manager. I primarily work on the roadmap, strategy, and vision for the tech and services behind [League of Legends](https://www.leagueoflegends.com/en-us/) & [Teamfight Tactics](https://teamfighttactics.leagueoflegends.com/en-us/).
 
 In the years before games, I spent a majority of my career building and delivering healthcare software. Healthcare in the United States is fundamentally broken and I am grateful to have spent a huge chunk of my life chipping away at hard problems in this space. I've had the pleasure to work with super innovative teams at [Sharecare](https://www.sharecare.com), [Elation Health](https://www.elationhealth.com), and [98point6](http://98point6.com).
 
