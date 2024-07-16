@@ -1,5 +1,5 @@
 ---
-description:
+description: personal website of Justin Watts
 cascade:
 showReadingTime: false
 ---
