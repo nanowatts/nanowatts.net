@@ -24,7 +24,7 @@ I also greatly enjoy photography. I picked it up during 2020 and have continued 
 
 -----
 
-You can contact me through [email](mailto:justin@nanowatts.net) or find me on [Instagram](https://www.instagram.com/nanowatts/), [Threads](https://www.threads.net/@nanowatts), and [Mastadon](https://torment.nexus/@nanowatts).
+You can contact me through [email](mailto:justin@nanowatts.net) or find me on [Instagram](https://www.instagram.com/nanowatts/), [Bluesky](https://bsky.app/profile/nanowatts.net), and [Mastadon](https://torment.nexus/@nanowatts).
 
 This site was built using [Hugo](https://gohugo.io) and themed with [Congo](https://github.com/jpanther/congo). The custom styling on top of Congo is my own. 
 
