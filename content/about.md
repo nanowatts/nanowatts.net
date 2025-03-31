@@ -18,7 +18,7 @@ I was on the PRIMEGUARD team that achieved the [World's First](https://kotaku.co
 
 During winter, I try to be in the mountains as much as I can. I was first introduced to skiing in 2018 by my wife, Chrissy, and now count it as my favorite thing to do. 
 
-I also greatly enjoy photography. I picked it up during 2020 and have continued to grow my skills since. I love shooting RAW on my iPhone and also greatly enjoy carrying around a "big camera". I'm currently back and forth between using a [Sony a7riv](https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7rm4-b) and [Leica Q3](https://leica-camera.com/en-US/photography/cameras/q/q3-black).
+I also greatly enjoy photography. I picked it up during 2020 and have continued to grow my skills since. I love shooting RAW on my iPhone and also greatly enjoy carrying around a "big camera". I'm currently back and forth between using a [Sony a7riv](https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7rm4-b) and [Leica Q3 43](https://leica-camera.com/en-int/photography/cameras/q/q3-43-black).
 
 -----
 
