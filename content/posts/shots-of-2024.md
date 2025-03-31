@@ -7,6 +7,8 @@ showDate: true
 
 I started _really_ getting into photography in 2020. Since then I've amassed a fairly large photo library. Using Instagram is kind of a drag and I haven't had the time to delve into printing and displaying. I'm still very much stumbling through this craft and remain my own worst critic, but decided to not let perfect be the enemy of good. Here's a few lightly curated shots of 2024. Enjoy!
 
+(Note that for full quality you'll need to open the image in a new tab. Apologies, haven't implemented a proper gallery here yet.)
+
 
 ![Circling](/2024/circling.jpg "Circling")
 
