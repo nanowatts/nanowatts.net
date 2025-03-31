@@ -2,6 +2,7 @@
 description: personal website of Justin Watts
 cascade:
 showReadingTime: false
+robots: all
 ---
 
 ## Hey, I'm Justin ------
