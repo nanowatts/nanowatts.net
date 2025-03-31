@@ -1,6 +1,6 @@
 ---
 title: "Shots of 2024"
-date: 2025-04-01
+date: 2025-03-30
 draft: false
 showDate: true
 ---
