@@ -12,6 +12,7 @@ I started _really_ getting into photography in 2020. Since then I've amassed a f
 
 ![Symphony](2024/symphony.jpg "Symphony")
 
+![Aurora over Mt. Si](2024/aurora-over-si.jpg "Aurora Over Si")
 
 ![From Tolmie](2024/from-tolmie.jpg "From Tolmie")
 
