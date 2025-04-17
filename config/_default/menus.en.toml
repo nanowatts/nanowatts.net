@@ -14,16 +14,21 @@
   name = "About"
   pageRef = "about"
   weight = 10
-
+  
 [[main]]
-  name = "Archive"
-  pageRef = "posts"
-  weight = 20
+  name = "Photos"
+  url = "https://glass.photo/nanowatts"
+  weight = 30
 
 [[main]]
   name = "Bluesky"
   url = "https://bsky.app/profile/nanowatts.net"
   weight = 30
+  
+  [[main]]
+  name = "Archive"
+  pageRef = "posts"
+  weight = 40
 
 
 # -- Footer Menu --
